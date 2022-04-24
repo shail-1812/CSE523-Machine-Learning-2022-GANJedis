@@ -14,19 +14,19 @@ To use K Nearest Neighbors to provide the user with recommendation of songs base
 1. To provide better recommendation of songs to the users based on the previously top heard songs of the user. 
 
 <h2>References</h2>
-1.  https://pandas.pydata.org/ https://scikit-learn.org/stable/ 
-2.  https://kaggle.com 
-3.  https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea 
-4.  https://www.frontiersin.org/articles/10.3389/fams.2019.00044/full
-5.  https://www.researchgate.net/publication/336162555_A_Music_Recommendation_System_Based_on_logistic_regression_and_eXtreme_Gradient_Boosting
-6.  https://silo.tips/download/project-report-cs-240a-applied-parallel-computing-k-nearest-neighborhood-based-m  
+1.  https://pandas.pydata.org/ https://scikit-learn.org/stable/ <br>
+2.  https://kaggle.com <br>
+3.  https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea <br>
+4.  https://www.frontiersin.org/articles/10.3389/fams.2019.00044/full <br>
+5.  https://www.researchgate.net/publication/336162555_A_Music_Recommendation_System_Based_on_logistic_regression_and_eXtreme_Gradient_Boosting <br>
+6.  https://silo.tips/download/project-report-cs-240a-applied-parallel-computing-k-nearest-neighborhood-based-m  <br>
 
-7.  https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify
-8.  https://deepnote.com/@zi-xiao-li/Spotify-fd3c414d-44ef-42d2-b9f4-51d7faf159c7
-9.  https://www.kaggle.com/code/richardcsuwandi/spotify-time-series-analysis/notebook
-10.  A Deep Temporal Neural Music Recommendation Model Utilizing Music and User Metadata Hai-Tao Zheng 1,* , Jin-Yuan Chen 1 , Nan Liang 1 , Arun Kumar Sangaiah 2 , Yong Jiang 1 and Cong-Zhi Zhao 3
-11.  Liao, K., 2018. Prototyping a Recommender System Step by Step Part 1: KNN Item-Based Collaborative Filtering. [online] Medium. Available at: <https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea> [Accessed 20 March 2022].
-12.  M. Schedl, “Deep Learning in Music Recommendation Systems,” Frontiers, 01-Jan-1AD. [Online]. Available: https://www.frontiersin.org/articles/10.3389/fams.2019.00044/full. [Accessed: 28-Mar-2022]. 
+7.  https://www.kaggle.com/datasets/mrmorj/dataset-of-songs-in-spotify <br>
+8.  https://deepnote.com/@zi-xiao-li/Spotify-fd3c414d-44ef-42d2-b9f4-51d7faf159c7 <br>
+9.  https://www.kaggle.com/code/richardcsuwandi/spotify-time-series-analysis/notebook <br>
+10.  A Deep Temporal Neural Music Recommendation Model Utilizing Music and User Metadata Hai-Tao Zheng 1,* , Jin-Yuan Chen 1 , Nan Liang 1 , Arun Kumar Sangaiah 2 , Yong Jiang 1 and Cong-Zhi Zhao 3 <br>
+11.  Liao, K., 2018. Prototyping a Recommender System Step by Step Part 1: KNN Item-Based Collaborative Filtering. [online] Medium. Available at: <https://towardsdatascience.com/prototyping-a-recommender-system-step-by-step-part-1-knn-item-based-collaborative-filtering-637969614ea> [Accessed 20 March 2022]. <br>
+12.  M. Schedl, “Deep Learning in Music Recommendation Systems,” Frontiers, 01-Jan-1AD. [Online]. Available: https://www.frontiersin.org/articles/10.3389/fams.2019.00044/full. [Accessed: 28-Mar-2022]. <br>
 13.  “A music recommendation system based on logistic regression ...” [Online]. Available: https://www.researchgate.net/publication/336162555  A Music Recommendation System Based on logistic regression and eXtreme Gradient Boosting. [Accessed: 28-Mar-2022]. 
 
 
