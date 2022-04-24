@@ -13,7 +13,7 @@ To use K Nearest Neighbors to provide the user with recommendation of songs base
 <h2>Uses in real life</h2>
 1. To provide better recommendation of songs to the users based on the previously top heard songs of the user. 
 
-
+<br><br>
 
 ![image](https://user-images.githubusercontent.com/88042019/164972498-ae2775d5-fb20-4177-88d7-237464f5b8e1.png)
 ![image](https://user-images.githubusercontent.com/88042019/164972501-3f41b773-0185-4b0c-8720-d3c90d66de22.png)
